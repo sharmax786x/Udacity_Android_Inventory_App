@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Inventory App</string>
+    <string name="name_of_product">Name</string>
+    <string name="price_of_product">Price</string>
+    <string name="quantity_of_product">Quantity</string>
+    <string name="email_supplier">Email id of Supplier</string>
+    <string name="add_image">Add Image</string>
+    <string name="increase_quantity">+1</string>
+    <string name="decrease_quantity">-1</string>
+    <string name="order">Order</string>
+    <string name="delete">Delete</string>
+    <string name="product">Product</string>
+    <string name="action">Action</string>
+    <string name="sale">Sale</string>
+    <string name="confirm_delete">Confirm delete...</string>
+    <string name="are_you_sure">Are you sure you want delete this?</string>
+    <string name="action_delete_all_entries">Delete All products</string>
+    <string name="fill_all_details">Please fill all the fields</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+
+</resources>
